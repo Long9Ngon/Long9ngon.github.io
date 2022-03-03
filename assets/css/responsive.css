@@ -1,5 +1,5 @@
 /* Tablet & mobile*/
-@media (max-width: 1024px) {
+@media (max-width: 64em) {
     .btn {
         padding: 15px 16px;
     }
@@ -23,7 +23,7 @@
 }
 
 /* Mobile */
-@media (max-width: 739px) {
+@media (max-width: 46.1875em) {
     
     .s-full-width,
     .s-col-full {
